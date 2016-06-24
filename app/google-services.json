@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "862498453241",
+    "firebase_url": "https://firedb-1aa69.firebaseio.com",
+    "project_id": "firedb-1aa69",
+    "storage_bucket": "firedb-1aa69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862498453241:android:3c735e6a21ade8bd",
+        "android_client_info": {
+          "package_name": "com.tutorials.hp.firebasesimplespinner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862498453241-jj85ldlgr6istluscffb31nrcm1245lp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXP_zsYfy_Irk0kNvMrm4yJ4Aj5OROV9Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862498453241:android:c50b0f4333950117",
+        "android_client_info": {
+          "package_name": "com.tutorials.hp.firebasesimplegridview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862498453241-jj85ldlgr6istluscffb31nrcm1245lp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXP_zsYfy_Irk0kNvMrm4yJ4Aj5OROV9Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862498453241:android:13a65b1aff13be1c",
+        "android_client_info": {
+          "package_name": "com.tutorials.hp.firebasesimplerecycler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862498453241-jj85ldlgr6istluscffb31nrcm1245lp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXP_zsYfy_Irk0kNvMrm4yJ4Aj5OROV9Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862498453241:android:48abdb44073f5c03",
+        "android_client_info": {
+          "package_name": "com.tutorials.hp.firebasespinner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862498453241-jj85ldlgr6istluscffb31nrcm1245lp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXP_zsYfy_Irk0kNvMrm4yJ4Aj5OROV9Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
